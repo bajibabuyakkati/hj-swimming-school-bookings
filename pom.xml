@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.hatfield.junior.swimmingschool.Application</mainClass>
+                            <mainClass>com.parmeshwar.hatfield.junior.swimmingschool.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

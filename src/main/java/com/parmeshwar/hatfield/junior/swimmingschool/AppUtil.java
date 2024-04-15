@@ -3,7 +3,7 @@ package com.parmeshwar.hatfield.junior.swimmingschool;
 import com.parmeshwar.hatfield.junior.swimmingschool.exceptions.CoachExistsException;
 import com.parmeshwar.hatfield.junior.swimmingschool.exceptions.LearnerAgeLimitException;
 import com.parmeshwar.hatfield.junior.swimmingschool.exceptions.LearnerExistsException;
-import com.hatfield.junior.swimmingschool.modal.*;
+
 import com.parmeshwar.hatfield.junior.swimmingschool.service.HJSwimmingSchool;
 import com.parmeshwar.hatfield.junior.swimmingschool.service.HJSwimmingSchoolImpl;
 import com.parmeshwar.hatfield.junior.swimmingschool.modal.*;

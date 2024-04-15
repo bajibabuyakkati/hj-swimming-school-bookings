@@ -1,7 +1,5 @@
 package com.parmeshwar.hatfield.junior.swimmingschool.service;
 
-import com.hatfield.junior.swimmingschool.exceptions.*;
-import com.hatfield.junior.swimmingschool.modal.*;
 import com.parmeshwar.hatfield.junior.swimmingschool.exceptions.*;
 import com.parmeshwar.hatfield.junior.swimmingschool.modal.*;
 import org.junit.Before;
